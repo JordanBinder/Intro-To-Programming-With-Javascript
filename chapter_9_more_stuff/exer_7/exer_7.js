@@ -1,0 +1,2 @@
+// exception handling allows you to catch certain errors that you could expect and then 
+// have your program interact with the error versus failing your program. Ex. upon an anticipated error, it can catch and then continue the function.
